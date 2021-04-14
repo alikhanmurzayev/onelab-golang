@@ -20,3 +20,8 @@
 
 Идеи для финального проекта:
 1. Хранилище фильмов в онлайн-кинотеатре.
+
+References:
+1. https://cdn.otus.ru/media/public/82/8d/828dc9_program_golang_professional.pdf
+2. https://raw.githubusercontent.com/iskanderbs/OneTech-GoLang-Course/master/syllabus.pdf
+3. https://lab.one.kz/
