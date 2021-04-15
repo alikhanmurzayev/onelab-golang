@@ -20,6 +20,7 @@
 
 Идеи для финального проекта:
 1. Хранилище фильмов в онлайн-кинотеатре.
+2. Чат с вебсокетами на нескольких экземплярах приложения
 
 References:
 1. https://cdn.otus.ru/media/public/82/8d/828dc9_program_golang_professional.pdf
