@@ -1,4 +1,4 @@
-# [Backend GO](https://lab.one.kz/#request)
+# [Backend GO](https://lab.one.kz)
 ### Курс по разработке на [Golang](https://golang.org) в рамках [OneLab](https://lab.one.kz) от компании [One Technologies](https://one.kz). 
 
 ### Требования к кандидатам:
@@ -6,7 +6,6 @@
 - Умение решать простые алгоритмические задачи
 - Знание простых структур данных
 - Понимание работы HTTP, сети Интернет
-- Компьютер с любым дистрибутивом Linux (например, [Ubuntu](https://ubuntu.com/)) или виртуальной машиной Linux (например, [VirtualBox](https://www.virtualbox.org/))
 
 ### Во время прохождения курса ты:
 - Разберешься с основами языка
