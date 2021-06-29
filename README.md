@@ -25,7 +25,7 @@
 | 4 | Указатели. Структуры и их методы. Arrays, slices, maps |
 | 5 | Интерфейсы, рефлексия. Работа с JSON, XML |
 | 6 | Многопоточность: потоки и горутины. Каналы. Шаблоны синхронизации (waitgroup, select, mutex) |
-| 7 | Шаблоны синхронизации (errgroup, semaphore, rwmutex). Работа с HTTP: простой сервер. Docker |
+| 7 | Шаблоны синхронизации (errgroup, semaphore, rwmutex). Работа с HTTP: простой сервер |
 | 8 | Coming soon... |
 
 ### [Телега преподавателя](https://t.me/weightlight)
