@@ -1,5 +1,5 @@
 # [Backend GO](https://lab.one.kz)
-### Курс по разработке на [Golang](https://golang.org) в рамках [OneLab](https://lab.one.kz) от компании [One Technologies](https://one.kz). 
+### Курс по разработке на [Golang](https://golang.org) в рамках [OneLab](https://lab.one.kz) от компании [One Technologies](https://www.instagram.com/therealonetech/). 
 
 ### Требования к кандидатам:
 - Знание любого языка программирования
